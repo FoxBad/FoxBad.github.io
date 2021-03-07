@@ -1,0 +1,39 @@
+h1.title
+{
+
+	color: rgb(0, 0, 0);
+	font-size: 50px;
+	vertical-align: auto;
+	text-align: center;
+	margin-top: 100px;
+	
+}
+nav.menu-nav{
+	text-align: center;
+}
+nav.menu-nav ul li.btn{
+	display: inline-block;
+	list-style-type: none;
+	padding-top: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-top: 70px;
+}	
+nav.menu-nav ul li.btn a{
+	color: black;
+	background-color: rgb(255, 59, 59);
+	text-decoration: none;
+	font-size: 25px;
+	padding: 20px;
+	border-radius: 15px;
+	
+}
+nav.menu-nav ul li.btn:hover a{
+	color: rgb(255, 59, 59);
+	background-color: black;
+	transition: 0.3s;
+}
+body{
+	font-family: 'Roboto', sans-serif;
+	background-color: rgb(230, 230, 230);
+}
