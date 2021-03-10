@@ -197,7 +197,7 @@ section.content div.sep:before {
 	float: left;
 	width: 100%;
 	height: 100px;
-	transform: translateY(50px) skewY(3deg);
+	transform: translateY(50px) skewY(-3deg);
 	background: rgb(0, 139, 219);
 	position: relative;
 }
